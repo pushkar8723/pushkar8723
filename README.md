@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on creating my own component library.
 - 🌱 I’m currently learning GraphQL and Gatsby.
-- 👯 I’m looking to collaborate on creating a view agnostic framework.
 - 🤔 I’m looking for help with creating a view agnostic framework.
 
 <!--
