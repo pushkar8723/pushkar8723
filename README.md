@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭  I’m currently working on creating my own component library.
-- 🌱  I’m currently learning GraphQL and Gatsby.
-- 🤔  I’m looking for help with creating a view agnostic framework.
+- 🔭 I’m currently working on creating my own react component library called [no-frills-ui](https://no-frills-ui.netlify.app/).
+- 🌱 I’m currently learning GraphQL and Gatsby to create my only [blog/portfolio](https://abstracted.in).
+- 🤔 I’m looking for help with creating a view agnostic framework called [Sparkx](https://github.com/pushkar8723/sparkx).
 
 <!--
 **pushkar8723/pushkar8723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
