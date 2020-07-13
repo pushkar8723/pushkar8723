@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with creating a view agnostic framework called [Sparkx](https://github.com/pushkar8723/sparkx).
 - 📫 How to reach me: [twitter](https://twitter.com/pushkar8723)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: The animated waves banner you see above is **not** a GIF and has a cycle of 2 hours!
+- ⚡ Fun fact: The animated waves banner you see above is **not** a GIF and has a cycle of 2 minutes!
 
 <!--
 **pushkar8723/pushkar8723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
