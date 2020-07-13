@@ -1,7 +1,10 @@
 <svg viewBox="0 0 1440 320" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style type="text/css">
-        @import url("https://fonts.googleapis.com/css2?family=Bangers&amp;display=swap");
+        @font-face {
+            font-family: bangers;
+            src: url(./Bangers-Regular.ttf);
+        }
         .hi {
             font: normal 50px bangers;
             fill: black;
