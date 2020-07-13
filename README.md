@@ -3,6 +3,8 @@
 - 🔭 I’m currently working on creating my own react component library called [no-frills-ui](https://no-frills-ui.netlify.app/).
 - 🌱 I’m currently learning GraphQL and Gatsby to create my own [blog/portfolio](https://abstracted.in).
 - 🤔 I’m looking for help with creating a view agnostic framework called [Sparkx](https://github.com/pushkar8723/sparkx).
+- 📫 How to reach me: [twitter](https://twitter.com/pushkar8723)
+- 😄 Pronouns: He/Him
 
 <!--
 **pushkar8723/pushkar8723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
