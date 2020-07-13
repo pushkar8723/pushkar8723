@@ -1,12 +1,13 @@
-<svg viewBox="0 0 1440 320" width='1440' height='320' xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 1440 320" height="320" width="1440" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style type="text/css">
+        @import url("https://fonts.googleapis.com/css2?family=Bangers&amp;display=swap");
         .hi {
-            font: italic 50px impact;
-            fill: currentColor;
+            font: normal 50px bangers;
+            fill: black;
         }
         .name {
-            font: italic 86px impact;
+            font: normal 86px bangers;
             fill: #2283d2;
         }
         .wave1 {
@@ -58,6 +59,6 @@
   <use href="#sinewave" x="-100%" class='wave3'/>
   <use href="#sinewave" x="0%" class='wave3'/>
   <text x='80px' y='150px' class='hi'>Hi There!</text>
-  <text x='170px' y='200px' class='hi'>I am </text>
-  <text x='270px' y='200px' class='name'>Pushkar Anand</text>
+  <text x='150px' y='200px' class='hi'>I am </text>
+  <text x='250px' y='200px' class='name'>Pushkar Anand</text>
 </svg>
