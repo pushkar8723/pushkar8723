@@ -1,4 +1,4 @@
-### Hi there 👋
+![Pushkar Anand](./banner.svg)
 
 - 🔭 I’m currently working on creating my own react component library called [no-frills-ui](https://no-frills-ui.netlify.app/).
 - 🌱 I’m currently learning GraphQL and Gatsby to create my own [blog/portfolio](https://abstracted.in).
