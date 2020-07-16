@@ -48,7 +48,7 @@
     </style>
   </defs>
   <def>
-    <path id='sinewave' fill="#0099ff33" fill-opacity="1" d="M0,160 C320,300,420,300,740,160 C1060,20,1120,20,1440,160 V 0 H 0">
+    <path id='sinewave' fill="#0099ff" fill-opacity="0.2" d="M0,160 C320,300,420,300,740,160 C1060,20,1120,20,1440,160 V 0 H 0">
   </path>
   </def>
   <use href="#sinewave" x="-100%" class='wave1'/>
