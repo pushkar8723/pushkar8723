@@ -1,7 +1,7 @@
 ![Pushkar Anand](https://raw.githubusercontent.com/pushkar8723/pushkar8723/master/banner.svg)
 
 - 🔭 I’m currently working on creating my own react component library called [no-frills-ui](https://no-frills-ui.netlify.app/).
-- 🌱 I’m currently learning GraphQL and Gatsby to create my own [blog/portfolio](https://abstracted.in).
+- 🌱 I like contributing to [ente](https://github.com/ente-io/ente) (an opensource end-to-end encrypted photo sharing app) in my free time.
 - 🤔 I’m looking for help with creating a view agnostic framework called [Sparkx](https://github.com/pushkar8723/sparkx).
 - 📫 How to reach me: [twitter](https://twitter.com/pushkar8723)
 - 😄 Pronouns: He/Him
