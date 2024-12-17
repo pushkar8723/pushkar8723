@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on creating my own react component library called [no-frills-ui](https://no-frills-ui.netlify.app/).
 - 🌱 I like contributing to [ente](https://github.com/ente-io/ente) (an opensource end-to-end encrypted photo sharing app) in my free time.
-- 🤔 I’m looking for help with creating a view agnostic framework called [Sparkx](https://github.com/pushkar8723/sparkx).
+- 🤔 Checkout my [blog](https://abstracted.in/).
 - 📫 How to reach me: [twitter](https://twitter.com/pushkar8723)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The animated waves banner you see above is **not** a GIF and has a cycle of 2 minutes and size is just 35 KB! Checkout my [blog post](https://abstracted.in/svg-animation/) on how I created this.
