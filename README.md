@@ -5,7 +5,7 @@
 - 🤔 Checkout my [blog](https://abstracted.in/).
 - 📫 How to reach me: [twitter](https://twitter.com/pushkar8723)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: The animated waves banner you see above is **not** a GIF, its a SVG. Which has a cycle of 2 minutes and size is just 35 KB! Checkout my [blog post](https://abstracted.in/svg-animation/) on how I created this.
+- ⚡ Fun fact: The animated waves banner you see above is **not** a GIF, its a SVG. Which has a cycle of 2 minutes! Checkout my [blog post](https://www.abstracted.in/blog/svg-animation/) on how I created this. It even changes color based your system theme.
 
 <!--
 **pushkar8723/pushkar8723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
